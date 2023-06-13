@@ -62,7 +62,7 @@ If you use this library in your work, please cite our paper:
   date = {2020-07-17},
   pages = {362-367},
 }                             
-```
+``` 
 
 ### Notes
 If you have tabular data, and want to fit a copula from it, consider this python library:  [copulas](https://sdv-dev.github.io/Copulas/index.html)  
